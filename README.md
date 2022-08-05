@@ -1,5 +1,12 @@
 # quiz_app
 
+
+NOTE : All the layouts and design are done in the home.dart (lib<ui<home.dart) 
+And the App is run inside the main.dart (lib<main.dart)
+image is int the images folder in a .png form.
+There's also a Model Directory int the lib which consists of a question file containing a class Question for how to iterate through the List of questions.
+
+
 A new Flutter project.
 
 ## Getting Started
